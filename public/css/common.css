@@ -1,0 +1,10 @@
+.siteclosed {margin-bottom:0;}
+
+/* Table */
+.table-box {margin:0 12px;}
+
+/* Pagenav */
+.pagenav {text-align:center;}
+.pagination {display:inline-block;text-align:center;}
+.pagination li {display:inline-block;text-align:center;position:relative;width:44px;}
+.pagination li a {float:none;}
