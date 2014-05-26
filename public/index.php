@@ -12,7 +12,7 @@ define('TIMENOW', $_SERVER['REQUEST_TIME']);
 define('DS', DIRECTORY_SEPARATOR);
 
 // 项目路径
-define('APP_PATH', 'D:' . DS . 'httproot' . DS . 'gitlist');
+define('APP_PATH', 'D:' . DS . 'lamp' . DS . 'www' . DS . 'gitlist');
 define('PUB_PATH', APP_PATH . DS . 'public' . 'DS');
 
 $app = new Yaf\Application(APP_PATH . DS . 'conf' . DS . 'application.ini');
